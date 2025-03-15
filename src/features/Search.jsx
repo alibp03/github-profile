@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 // import { ReactComponent as SearchIcon } from "../assets/icons/search.svg";
 
-import searchIcon from "../assets/icons/search.svg";
+import searchIcon from "../assets/icons/Search.svg";
 import {
   addQuery,
   fetchGithubProfile,
